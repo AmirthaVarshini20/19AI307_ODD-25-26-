@@ -61,7 +61,7 @@ class Car{
 
 
 ## OUTPUT:
-
+![alt text](image.png)
 
 
 ## RESULT:
