@@ -62,7 +62,7 @@ public class ArrayOps {
 
 ## OUTPUT:
 
-
+![alt text](image.png)
 
 ## RESULT:
 
