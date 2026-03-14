@@ -101,7 +101,7 @@ public class lulu{
 
 ## OUTPUT:
 
-
+![alt text](image.png)
 
 ## RESULT:
 
